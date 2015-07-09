@@ -10,6 +10,7 @@ LIBS:cmos4000
 LIBS:adc-dac
 LIBS:memory
 LIBS:xilinx
+LIBS:special
 LIBS:microcontrollers
 LIBS:dsp
 LIBS:microchip
@@ -28,6 +29,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:Test-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -101,17 +103,6 @@ F 3 "" H 5750 1600 30  0000 C CNN
 	1    5750 1600
 	0    1    1    0   
 $EndComp
-$Comp
-L R R?
-U 1 1 559DD3B4
-P 5750 3700
-F 0 "R?" V 5830 3700 50  0000 C CNN
-F 1 "120" V 5750 3700 50  0000 C CNN
-F 2 "" V 5680 3700 30  0000 C CNN
-F 3 "" H 5750 3700 30  0000 C CNN
-	1    5750 3700
-	0    1    1    0   
-$EndComp
 Wire Wire Line
 	5400 1600 5600 1600
 Wire Wire Line
@@ -126,6 +117,17 @@ Wire Wire Line
 	6100 3500 6350 3500
 Wire Wire Line
 	5900 3700 6350 3700
+$Comp
+L R R?
+U 1 1 559DD3B4
+P 5750 3700
+F 0 "R?" V 5830 3700 50  0000 C CNN
+F 1 "120" V 5750 3700 50  0000 C CNN
+F 2 "" V 5680 3700 30  0000 C CNN
+F 3 "" H 5750 3700 30  0000 C CNN
+	1    5750 3700
+	0    1    1    0   
+$EndComp
 Wire Wire Line
-	5600 3700 5100 3700
+	5100 3700 5500 3700
 $EndSCHEMATC
