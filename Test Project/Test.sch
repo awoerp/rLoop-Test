@@ -111,16 +111,4 @@ Connection ~ 5700 2800
 Wire Wire Line
 	4850 3000 5200 3000
 Connection ~ 5200 3000
-Wire Wire Line
-	3850 1450 3550 1450
-Wire Wire Line
-	3550 1450 3550 2800
-Wire Wire Line
-	3550 2800 3850 2800
-Wire Wire Line
-	3850 2700 3650 2700
-Wire Wire Line
-	3650 2700 3650 1550
-Wire Wire Line
-	3650 1550 3850 1550
 $EndSCHEMATC
