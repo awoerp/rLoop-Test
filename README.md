@@ -3,7 +3,7 @@ Test for rLoop Hardware source control
 
 # How to install Visual Studio with Visual Micro
 
-1. If you do not have VS Community or Professional (NOT EXPRESS) [Visual Studio Community Edition](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx)
+1. If you do not have VS Community or Professional (NOT EXPRESS), install [Visual Studio Community Edition](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx)
 2. While downloading VS, you can download and install the newest stable release of the [Arduino IDE](https://www.arduino.cc/en/main/software)
 3. Run the Arduino IDE at least once.
 4. Install VS Community Edition.  Reboot if needed.
