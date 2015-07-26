@@ -10,5 +10,6 @@
 8. Start Visual studio.
 9. Visual Micro will ask you to point it to your Arduino IDE.  Do so now.
 
+If you have any issues, check the Visual Micro FAQ: http://www.visualmicro.com/page/User-Guide.aspx?doc=Frequently-Asked-Questions.html
 
 You should now be able to create Sketch Projects, open .ino files in Visual Studio, and open the "rLoop-Test" .sln file which contains the CAN Bus test programs in this repository.
