@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rLoop-Test", "rLoop-Test.vcxproj", "{108527C4-1D79-4818-A351-FAE0FAF28464}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CANRecvTest", "CANRecvTest\CANRecvTest.vcxproj", "{8FCC5F50-1F81-4012-804F-27027874EE19}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CANSendTest", "CANSendTest\CANSendTest.vcxproj", "{A02D1154-06E4-4008-964D-6471B32B031A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Derping_On_Micro", "Derping_On_Micro\Derping_On_Micro.vcxproj", "{FD4068CA-80FA-4756-8F7D-C6B59797335E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{A02D1154-06E4-4008-964D-6471B32B031A}.Debug|Win32.Build.0 = Debug|Win32
 		{A02D1154-06E4-4008-964D-6471B32B031A}.Release|Win32.ActiveCfg = Release|Win32
 		{A02D1154-06E4-4008-964D-6471B32B031A}.Release|Win32.Build.0 = Release|Win32
+		{FD4068CA-80FA-4756-8F7D-C6B59797335E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD4068CA-80FA-4756-8F7D-C6B59797335E}.Debug|Win32.Build.0 = Debug|Win32
+		{FD4068CA-80FA-4756-8F7D-C6B59797335E}.Release|Win32.ActiveCfg = Release|Win32
+		{FD4068CA-80FA-4756-8F7D-C6B59797335E}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
